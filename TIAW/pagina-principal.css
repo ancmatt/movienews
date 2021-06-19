@@ -1,0 +1,69 @@
+.header{
+    background-color: rgba(0, 132, 255, 0.527);
+}
+.carousel-item>img{
+    max-height: 460px;
+}
+/*avaliação*/
+.xxt{ 
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+}
+
+.xxt-a{
+    font-size: 15px;
+    color: rgb(0, 0, 0);
+}
+
+
+/*f avaliação */
+.xxx {
+    text-decoration:none;
+    color: black;
+}
+
+.footer{
+    background-color: rgba(0, 132, 255, 0.527);
+}
+.body{
+    background-color: rgb(255, 255, 255);
+}
+
+.avaliacoes{
+    max-height: 344px;
+}
+.top{
+    background-color: rgba(0, 109, 24, 0.5);
+}
+.borda{
+    border-width:3px !important
+}
+.categoria{
+    background-image: url(img/categoriaLimpeza.jpg);
+    background-size: cover;
+    background-position-y: -20px;
+}
+
+.categoria2{
+    background-image: url(img/categoriaEscrita.jpg);
+    background-size: 150%;
+    background-position-y: -40px;
+    background-position-x: -100px;  
+   
+}
+
+.categoria3{
+    background-image: url(img/categoriaDesign.jpeg);
+    background-size: 150%;
+    background-position-y: -80px;
+    background-position-x: -15px;
+    
+    
+}
+
+.categoria4{
+    background-image: url(img/categoriaArte.jpeg);
+    background-size: 150%;
+    background-position-y: -115px;
+   
+}
